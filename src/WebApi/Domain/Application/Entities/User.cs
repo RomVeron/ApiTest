@@ -1,6 +1,4 @@
-﻿using Swashbuckle.AspNetCore.Annotations;
-
-namespace Api.Test.Domain.Application.Entities
+﻿namespace Api.Test.Domain.Application.Entities
 {
     public class User
     {

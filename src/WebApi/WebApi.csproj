@@ -28,6 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Domain\Application\Exceptions" />
     <Folder Include="Domain\Application\Services\" />
   </ItemGroup>
   
